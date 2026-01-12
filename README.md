@@ -1,6 +1,28 @@
-# Welcome to your Expo app 👋
+# 📍 Road View – Public Road Awareness App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+      Road View is a mobile app built for the general public who face daily problems due to damaged roads, potholes, pits, and uneven surfaces.
+      Even after paying road taxes, citizens often suffer because there is no clear accountability for road conditions. This app aims to bring transparency, responsibility, and awareness.
+
+# 🚧 What the App Does
+   1. 🛣️ Identifies which contractor is responsible for a particular road
+   2. 📊 Shows how many people have reported issues on that road
+   3. 🚦 Sends traffic alerts if there is heavy congestion on your regular route due to potholes or road damage
+   4. 📢 Helps citizens raise their voice collectively by reporting road issues
+
+# 🎯 Why This App Matters
+   1. Improves public awareness
+   2. Encourages contractor accountability
+   3. Helps commuters avoid damaged routes
+   4. Supports safer and smoother travel for everyone
+
+# 👥 Who Can Use It
+   1. Daily commuters
+   2. Two-wheeler and four-wheeler users
+   3. Pedestrians
+   4. Anyone affected by poor road conditions
+
+
+
 
 ## Get started
 
@@ -35,16 +57,3 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
