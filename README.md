@@ -1,7 +1,7 @@
 # 📍 Road View – Public Road Awareness App
 
-      Road View is a mobile app built for the general public who face daily problems due to damaged roads, potholes, pits, and uneven surfaces.
-      Even after paying road taxes, citizens often suffer because there is no clear accountability for road conditions. This app aims to bring transparency, responsibility, and awareness.
+   Road View is a mobile app built for the general public who face daily problems due to damaged roads, potholes, pits, and uneven surfaces.
+   Even after paying road taxes, citizens often suffer because there is no clear accountability for road conditions. This app aims to bring transparency, responsibility, and awareness.
 
 # 🚧 What the App Does
    1. 🛣️ Identifies which contractor is responsible for a particular road
